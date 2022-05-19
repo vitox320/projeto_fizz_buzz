@@ -4,12 +4,12 @@
 
 Funcionalidades:
 
--Ler os numeros em um arquivo.txt
--Transformar os numeros em uma lista de números inteiros
--Verificar se os números de uma lsita é divisivel por 3 e 5, 
-  caso o número seja divisível por 3, esse número é convertido em uma string chamada fizz
-  caso o número seja divisível por 5, esse número é convertido em uma string chamada buzz
-  caso o número seja divisível por 3 e 5, esse número é convertido em uma string chamada fizzbuzz
+- Ler os numeros em um arquivo.txt
+- Transformar os numeros em uma lista de números inteiros
+- Verificar se os números de uma lsita é divisivel por 3 e 5 
+  -- caso o número seja divisível por 3, esse número é convertido em uma string chamada fizz
+  -- caso o número seja divisível por 5, esse número é convertido em uma string chamada buzz
+  -- caso o número seja divisível por 3 e 5, esse número é convertido em uma string chamada fizzbuzz
 
 ## Installation
 
